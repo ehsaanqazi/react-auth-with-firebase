@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Authentication With Firebase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Add your firebase configurations in the firebase.js 
 
 ## Available Scripts
 
